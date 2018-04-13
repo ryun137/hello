@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csprojResolveAssemblyReference.cache
+/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csproj.CoreCompileInputs.cache
+/WebApplication1/.vs/WebApplication1/v15/Server/sqlite3/storage.ide-wal
+/WebApplication1/.vs/WebApplication1/v15/Server/sqlite3/storage.ide-shm
+/WebApplication1/.vs/WebApplication1/v15/Server/sqlite3/storage.ide
+/WebApplication1/.vs/WebApplication1/v15/Server/sqlite3/db.lock
